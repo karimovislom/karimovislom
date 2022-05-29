@@ -3,7 +3,7 @@
 <p>I'm studying at Turin Polytechnic University</p>
 
 ### Programming Languages
-<div padding="10px">
+<div padding="60px">
 <p>I know that languages ;)</p>
 <img padding-right="30px" src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="100px">
 <img padding-right="30px" src="https://png.pngitem.com/pimgs/s/398-3982124_html-php-css-logo-png-transparent-png.png" width="100px">
