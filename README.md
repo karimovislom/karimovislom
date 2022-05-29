@@ -3,4 +3,4 @@
 
 ### Programming Languages
 <p>I know that languages</p>
-<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="30px"><>
+<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="100px"><>
